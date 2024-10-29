@@ -1,0 +1,74 @@
+body {
+    background-color: #f5f5f5;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.table {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+}
+
+.item-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.item-row img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.item-row p {
+    font-size: 16px;
+    margin: 0 10px;
+}
+
+button {
+    padding: 8px 12px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+}
+
+.change-btn {
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.buy-btn {
+    background-color: #555;
+    color: white;
+}
+
+.save-btn {
+    background-color: #90EE90;
+    color: black;
+}
+
+.delete-btn {
+    background-color: #FF474C;
+    color: white;
+}
+
+footer {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: #555;
+    margin: 0 10px;
+}
