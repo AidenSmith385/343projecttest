@@ -47,6 +47,24 @@ button {
 }
 
 .delete-btn {
-    background-color: #FF474C;
+    background-color: #C9302C;
     color: white;
+}
+
+.save-btn, .delete-btn {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.center-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.container-fluid {
+    padding-bottom: 40px;
 }
