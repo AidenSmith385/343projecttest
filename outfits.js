@@ -5,6 +5,11 @@ function loadSavedOutfits() {
     savedOutfitsDiv.innerHTML = ''; // Clear existing content
 
 
+    if (savedOutfits.length === 0) {
+        savedOutfitsDiv.innerHTML = '<p class="no-items-message">You have no outfits saved.</p>';
+        return;
+    }
+
     savedOutfits.forEach((outfit, index) => {
         let outfitDiv = document.createElement('div');
         outfitDiv.setAttribute('class', 'outfit mb-4'); // creates an attribuite to reference when altering the div

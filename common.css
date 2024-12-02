@@ -113,3 +113,10 @@ footer a:hover {
 .footer-bar {
     color: #455253; /* Improved contrast for separator */
 }
+
+.no-items-message {
+    text-align: center;
+    font-size: 1.2em;
+    color: #555;
+    margin-top: 20px;
+}

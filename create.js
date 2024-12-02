@@ -1,16 +1,23 @@
 function loadSavedItems() {
     let savedItems = JSON.parse(localStorage.getItem('savedItems')) || []; // look for items in the local storage saved by clothes
-    
-    if (savedItems.length === 0) { // Check if there are no saved items
-        // Display message if no saved items
-        let noItemsMessage = document.createElement('p');
-        noItemsMessage.textContent = 'You have no saved clothes';
-        outfitItemsDiv.appendChild(noItemsMessage);
-        return;
-    }
 
     let outfitItemsDiv = document.getElementById('outfit-items'); // for editing the div with ID
     outfitItemsDiv.innerHTML = ''; // clear old stuff
+
+    if (savedItems.length === 0) {
+        outfitItemsDiv.innerHTML = '<p class="no-items-message">You have no clothes saved.</p>';
+        // Hide the total price and action buttons
+        document.getElementById('total-price').style.display = 'none';
+        document.getElementById('delete-outfit-btn').style.display = 'none';
+        document.getElementById('save-outfit-btn').style.display = 'none';
+        return;
+    } else {
+        // Show the total price and action buttons
+        document.getElementById('total-price').style.display = 'inline';
+        document.getElementById('delete-outfit-btn').style.display = 'inline-block';
+        document.getElementById('save-outfit-btn').style.display = 'inline-block';
+    }
+
     let totalPrice = 0; // track the price
 
     for (let product of savedItems) { // loop thru items in the saved local storage
