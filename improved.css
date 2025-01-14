@@ -1,0 +1,76 @@
+/* Improved CSS File: improved.css */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto&display=swap');
+
+/* Body Styling */
+body {
+    background-color: #ffffff; /* Clean white background */
+    font-family: 'Roboto', sans-serif; /* Modern sans-serif font */
+    color: #333333; /* Dark gray text for better readability */
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3em;
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+
+/* Main Content Styling */
+main {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+main h3 {
+    font-size: 2.2em;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #2c3e50;
+}
+
+main p {
+    margin-top: 10px;
+    font-size: 1.1em;
+    line-height: 1.8;
+    text-align: justify;
+    color: #555555;
+}
+
+/* Responsive Media Queries */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.5em;
+    }
+
+    main {
+        padding: 30px 15px;
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 0.95em;
+        padding: 8px 12px;
+    }
+}
+
+@media (max-width: 576px) {
+    header h1 {
+        font-size: 2em;
+    }
+
+    main {
+        padding: 20px 10px;
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 0.9em;
+        padding: 8px 10px;
+    }
+}

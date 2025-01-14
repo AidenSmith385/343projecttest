@@ -1,117 +1,193 @@
 /* Body Styling */
 body {
-    background-color: #ecf0f1; /* Light gray background */
+    background-color: #ffffff; /* Light gray background */
     font-family: Arial, sans-serif;
     color: #2c3e50; /* Dark blue-gray text color */
+    margin: 0;
+    padding: 0;
 }
 
 /* Header Styling */
 header {
     background: linear-gradient(135deg, #3498db 0%, #2980b9 100%); /* Vibrant blue gradient */
-    padding: 50px 0;
+    padding: 30px 0;
     text-align: center;
     color: #ffffff;
 }
 
 header h1 {
     font-family: 'Playfair Display', serif;
-    font-size: 3em;
+    font-size: 2.5em;
     margin: 0;
 }
 
 /* Navigation Bar Styling */
 .navbar {
     background-color: #ffffff;
-    border-bottom: 2px solid #bdc3c7; /* Updated border color */
-    padding: 15px 0;
+    border-bottom: 2px solid #bdc3c7;
+    padding: 10px 0;
 }
 
-/* Navigation Bar Styling */
 .navbar-nav .nav-link {
-    color: #ffffff;
-    font-size: 1.2em;
-    padding: 12px 25px;
-    background-color: #257cb5; /* Updated to meet contrast ratio */
-    margin: 0 10px;
-    border-radius: 8px;
-    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+    color: #2c3e50;
+    font-size: 1em;
+    padding: 10px 15px;
+    margin: 0 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
 }
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link.active {
-    background-color: #177bbe; /* Updated to meet contrast ratio */
+    background-color: #34495e;
     color: #ffffff;
-    transform: scale(1.05);
 }
 
 /* Main Content Styling */
-main .col-lg-4 {
-    margin-bottom: 30px;
+main {
+    padding: 20px 0;
 }
 
-/* Center the two items */
 .center-items {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-main .col-lg-4 a {
-    text-decoration: none;
-    color: #2c3e50; /* Dark blue-gray text */
-}
-
-main .col-lg-4 a:hover {
-    text-decoration: none;
-    color: #3498db; /* Primary blue on hover */
-}
-
-main img {
-    max-height: 200px;
-    object-fit: cover;
-    border-radius: 10px;
-    transition: transform 0.3s;
-}
-
-main img:hover {
-    transform: scale(1.05);
-}
-
 main p {
     margin-top: 10px;
-    font-size: 1.2em;
-    font-weight: bold;
+    font-size: 1em;
 }
 
 /* Footer Styling */
 footer {
-    background-color: #bdc3c7; /* Light gray background */
-    padding: 30px 0;
+    background-color: #34495e;
+    padding: 20px 0;
     text-align: center;
-    border-top: 2px solid #95a5a6; /* Updated border color */
+    color: #ecf0f1;
 }
 
 footer p {
     margin: 0;
+    font-size: 0.9em;
+}
+
+footer a {
+    color: #ecf0f1;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    background-color: #2c3e50;
+}
+
+/* Separator Styling */
+.footer-bar {
+    margin: 0 10px;
+}
+
+/* No Items Message */
+.no-items-message {
+    text-align: center;
+    font-size: 1.2em;
+    color: #7f8c8d;
+    margin-top: 20px;
+}
+
+/* Product Item Styling */
+.product-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 15px;
+    background-color: #fff;
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+.product-item:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.product-item p {
+    margin-top: 10px;
     font-size: 1em;
     color: #2c3e50;
 }
 
-/* Footer Link Styling */
-footer a {
-    color: #ffffff;
-    background-color: #00893a; /* Updated background color to meet contrast */
-    padding: 10px 20px;
-    border-radius: 10px;
-    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+.product-item .add-btn {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 
-footer a:hover {
-    background-color: #00692c; /* Darker green for hover to improve contrast */
+.product-item .add-btn:hover {
+    background-color: #218838;
 }
 
-.footer-bar {
-    color: #455253; /* Improved contrast for separator */
+
+/* Style for Buy Buttons */
+.buy-btn {
+    background-color: #195075;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.buy-btn:hover {
+    background-color: #0d2739;
+}
+
+/* Style for Save Buttons */
+.save-btn {
+    background-color: #1e8549;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.save-btn:hover {
+    background-color: #0f4425;
+}
+
+/* Center Items */
+.center-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.container-fluid {
+    padding-bottom: 40px;
+}
+
+.table {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 8px; /* Optional: add rounded corners */
 }
 
 .no-items-message {
@@ -119,4 +195,37 @@ footer a:hover {
     font-size: 1.2em;
     color: #555;
     margin-top: 20px;
+}
+
+/* Styles for the button-like links */
+.text-center1 {
+    display: block;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 15px auto;
+    max-width: 500px;
+    background-color: #c7d2e6;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.text-center1:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+}
+
+.text-center1 img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.text-center1 p {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: #000000;
+    font-weight: bold;
 }

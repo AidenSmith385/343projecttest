@@ -1,0 +1,2768 @@
+{
+"products": [
+  {
+    "webID": "3910467",
+    "productTitle": "Men's Sonoma Goods For Life® Supersoft Crewneck Tee",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/3910467_Light_Olive?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 9.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 7.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4.3,
+      "count": 7915
+    },
+    "swatchImages": [
+      {
+        "color": "Dark Teal",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Dark_Teal_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "New White",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_New_White_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Faded Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Faded_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Burnt Cherry",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Burnt_Cherry_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Deep Plum",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Deep_Plum_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mineral Navy",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Mineral_Navy_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Dark Brown",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Dark_Brown_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Light Olive",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Light_Olive_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mauve Ruffle",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Mauve_Ruffle_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Forest Night",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Forest_Night_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Elgin Beige",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Elgin_Beige_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Graceful Beige",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Graceful_Beige_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Albany Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Albany_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mystic Lagoon",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Mystic_Lagoon_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Grey",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3910467_Grey_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [
+      "best_seller"
+    ],
+    "valueAddedBadges": {
+      "realTime": [
+        "best_seller"
+      ],
+      "pricing": [],
+      "other": []
+    },
+    "seoURL": "/product/prd-3910467/mens-sonoma-goods-for-life-supersoft-crewneck-tee.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Light Olive"
+    ],
+    "availableColr": [
+      "Dark Teal",
+      "New White",
+      "Faded Blue",
+      "Burnt Cherry",
+      "Deep Plum",
+      "Mineral Navy",
+      "Dark Brown",
+      "Light Olive",
+      "Mauve Ruffle",
+      "Forest Night",
+      "Elgin Beige",
+      "Graceful Beige",
+      "Albany Blue",
+      "Mystic Lagoon",
+      "Grey"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 6.39,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "6942397",
+    "productTitle": "Women's Tek Gear® Mesh Long Sleeve Tee",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6942397_Rugged_Green?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 24.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 19.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4.5,
+      "count": 53
+    },
+    "swatchImages": [
+      {
+        "color": "Plum Appeal",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6942397_Plum_Appeal_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Smokey Slate",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6942397_Smokey_Slate_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Solomon Sea",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6942397_Solomon_Sea_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Surely Red",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6942397_Surely_Red_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Rugged Green",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6942397_Rugged_Green_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mineral Black",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6942397_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Lola Purple",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6942397_Lola_Purple_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6942397/womens-tek-gear-mesh-long-sleeve-tee.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6942397_ALT",
+    "prodType": "product",
+    "displayColor": [
+      "Rugged Green"
+    ],
+    "availableColr": [
+      "Plum Appeal",
+      "Smokey Slate",
+      "Solomon Sea",
+      "Surely Red",
+      "Rugged Green",
+      "Mineral Black",
+      "Lola Purple"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 15.99,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "6921094",
+    "productTitle": "Women's Sonoma Goods For Life® Everyday Long Sleeve Crewneck Tee",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6921094_Adair_Green?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 11.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 6.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4,
+      "count": 566
+    },
+    "swatchImages": [
+      {
+        "color": "Adair Green",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Adair_Green_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Marsala Flower",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Marsala_Flower_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Touch Of Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Touch_Of_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Ivory Silk",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Ivory_Silk_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Transcend Green",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Transcend_Green_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Vital White",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Vital_White_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Lilac Cream",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Lilac_Cream_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Desert White Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Desert_White_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Chipper Magenta Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Chipper_Magenta_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Beauty",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Blue_Beauty_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Lilac Navy Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Lilac_Navy_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Orange Hibiscus",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Orange_Hibiscus_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Lavender Agate",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Lavender_Agate_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Denim Flare",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Denim_Flare_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Pitch Black",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Pitch_Black_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Lime Kiss",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Lime_Kiss_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Midnight Jam",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Midnight_Jam_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Saltspray Blue Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Saltspray_Blue_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Frosty Sky",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Frosty_Sky_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Charcoal",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6921094_Charcoal_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6921094/womens-sonoma-goods-for-life-everyday-long-sleeve-crewneck-tee.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6921094_ALT",
+    "prodType": "product",
+    "displayColor": [
+      "Adair Green"
+    ],
+    "availableColr": [
+      "Adair Green",
+      "Marsala Flower",
+      "Touch Of Blue",
+      "Ivory Silk",
+      "Transcend Green",
+      "Vital White",
+      "Lilac Cream",
+      "Desert White Stripe",
+      "Chipper Magenta Stripe",
+      "Blue Beauty",
+      "Lilac Navy Stripe",
+      "Orange Hibiscus",
+      "Lavender Agate",
+      "Denim Flare",
+      "Pitch Black",
+      "Lime Kiss",
+      "Midnight Jam",
+      "Saltspray Blue Stripe",
+      "Frosty Sky",
+      "Charcoal"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 5.59,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "6824218",
+    "productTitle": "Men's Sonoma Goods For Life® Supersoft Flannel Button-Down Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6824218_Green_Blue_Ombre?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 29.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 14.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4.5,
+      "count": 407
+    },
+    "swatchImages": [
+      {
+        "color": "Olive Buff Check",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Olive_Buff_Check_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Navy Heather Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Navy_Heather_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Grey Window Pane Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Grey_Window_Pane_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mustard Blue Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Mustard_Blue_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Black Jaspe Buffalo",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Black_Jaspe_Buffalo_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Carbon Copy",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Carbon_Copy_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Autumn Wheat",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Autumn_Wheat_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Ivory Black Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Ivory_Black_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Plum",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Plum_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Buffalo Black Red",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Buffalo_Black_Red_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Black Grey Buff Check",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Black_Grey_Buff_Check_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Buffalo Check Black",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Buffalo_Check_Black_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Oat Navy Heather",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Oat_Navy_Heather_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Grey Olive Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Grey_Olive_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Brown Tri Buff Check",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Brown_Tri_Buff_Check_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Pink Pop Olive Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Pink_Pop_Olive_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Pink Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Blue_Pink_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Navy Olive Pink Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Navy_Olive_Pink_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Buffalo Check Red",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Buffalo_Check_Red_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Ivory Navy Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Ivory_Navy_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Gray",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Gray_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Indigo Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Indigo_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Grey Ivory Buff Check",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Grey_Ivory_Buff_Check_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Heather Buffalo Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Heather_Buffalo_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Green Tri Buff Check",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Green_Tri_Buff_Check_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Teal Yellow Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Teal_Yellow_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Maroon Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Maroon_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Ivory Sage Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Ivory_Sage_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Navy Escape",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Navy_Escape_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Olive",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Olive_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Navy",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Navy_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Red Navy Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Red_Navy_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Brown Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Brown_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Muted Purple",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Muted_Purple_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Green Blue Ombre",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Green_Blue_Ombre_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Buff Check",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Blue_Buff_Check_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Orange Pop Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Orange_Pop_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Buffalo Beige Red",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Buffalo_Beige_Red_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Light Blue Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6824218_Light_Blue_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6824218/mens-sonoma-goods-for-life-supersoft-flannel-button-down-shirt.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Green Blue Ombre"
+    ],
+    "availableColr": [
+      "Olive Buff Check",
+      "Navy Heather Plaid",
+      "Grey Window Pane Plaid",
+      "Mustard Blue Plaid",
+      "Black Jaspe Buffalo",
+      "Carbon Copy",
+      "Autumn Wheat",
+      "Ivory Black Plaid",
+      "Plum",
+      "Buffalo Black Red",
+      "Black Grey Buff Check",
+      "Buffalo Check Black",
+      "Oat Navy Heather",
+      "Grey Olive Plaid",
+      "Brown Tri Buff Check",
+      "Pink Pop Olive Plaid",
+      "Blue Pink Plaid",
+      "Navy Olive Pink Plaid",
+      "Buffalo Check Red",
+      "Ivory Navy Plaid",
+      "Gray",
+      "Indigo Plaid",
+      "Grey Ivory Buff Check",
+      "Heather Buffalo Blue",
+      "Green Tri Buff Check",
+      "Teal Yellow Plaid",
+      "Maroon Plaid",
+      "Ivory Sage Plaid",
+      "Navy Escape",
+      "Olive",
+      "Navy",
+      "Red Navy Plaid",
+      "Brown Plaid",
+      "Muted Purple",
+      "Green Blue Ombre",
+      "Blue Buff Check",
+      "Orange Pop Plaid",
+      "Buffalo Beige Red",
+      "Light Blue Plaid"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 11.99,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "6629490",
+    "productTitle": "Men's FLX Slim Performance Untucked-Fit Button Down Long Sleeve Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6629490_Duffel_Bag?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 34.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 24.49,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4.6,
+      "count": 70
+    },
+    "swatchImages": [
+      {
+        "color": "Brown",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Brown_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Flagstone",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Flagstone_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mineral Black",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Sage Green",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Sage_Green_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Cocoa",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Cocoa_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Beauty",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Blue_Beauty_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Riviera",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Riviera_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Navy",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Navy_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "White",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_White_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mystery Teal",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Mystery_Teal_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Chesapeake Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Chesapeake_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Brindle",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Brindle_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Duffel Bag",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Duffel_Bag_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Modern White",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Modern_White_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Baron River",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Baron_River_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Wine Tastng",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6629490_Wine_Tastng_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6629490/mens-flx-slim-performance-untucked-fit-button-down-long-sleeve-shirt.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6629490_ALT",
+    "prodType": "product",
+    "displayColor": [
+      "Duffel Bag"
+    ],
+    "availableColr": [
+      "Brown",
+      "Flagstone",
+      "Mineral Black",
+      "Sage Green",
+      "Cocoa",
+      "Blue Beauty",
+      "Riviera",
+      "Navy",
+      "White",
+      "Mystery Teal",
+      "Chesapeake Blue",
+      "Brindle",
+      "Duffel Bag",
+      "Modern White",
+      "Baron River",
+      "Wine Tastng"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 19.59,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "3932637",
+    "productTitle": "Men's Tek Gear® Dry Tek Tee",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/3932637_Malou_Green?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 14.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 11.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4.6,
+      "count": 3274
+    },
+    "swatchImages": [
+      {
+        "color": "Hawk Grey",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Hawk_Grey_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Casting Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Casting_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Alva Olive Grid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Alva_Olive_Grid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Valiant Green",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Valiant_Green_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Elegant Blues",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Elegant_Blues_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Waterfall Lagoon",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Waterfall_Lagoon_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "True Blue Lychen",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_True_Blue_Lychen_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Brisk Mint",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Brisk_Mint_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Smokey Slate Hawk Gray",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Smokey_Slate_Hawk_Gray_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Berry Magnolia Grid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Berry_Magnolia_Grid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Silver Spring Grid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Silver_Spring_Grid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Sahara Wind",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Sahara_Wind_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Desert Shadow",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Desert_Shadow_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mineral Black",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Dress Blues Black",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Dress_Blues_Black_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Light Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Light_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Malou Green",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Malou_Green_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Lavish Lime",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Lavish_Lime_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Jenna Mauve",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Jenna_Mauve_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Cherry Cocktail",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Cherry_Cocktail_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Albany Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Albany_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Lost Lagoon",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Lost_Lagoon_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Dark Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Dark_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Scarlet",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/3932637_Scarlet_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [
+      "best_seller"
+    ],
+    "valueAddedBadges": {
+      "realTime": [
+        "best_seller"
+      ],
+      "pricing": [],
+      "other": []
+    },
+    "seoURL": "/product/prd-3932637/mens-tek-gear-dry-tek-tee.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Malou Green"
+    ],
+    "availableColr": [
+      "Hawk Grey",
+      "Casting Blue",
+      "Alva Olive Grid",
+      "Valiant Green",
+      "Elegant Blues",
+      "Waterfall Lagoon",
+      "True Blue Lychen",
+      "Brisk Mint",
+      "Smokey Slate Hawk Gray",
+      "Berry Magnolia Grid",
+      "Silver Spring Grid",
+      "Sahara Wind",
+      "Blue",
+      "Desert Shadow",
+      "Mineral Black",
+      "Dress Blues Black",
+      "Light Blue",
+      "Malou Green",
+      "Lavish Lime",
+      "Jenna Mauve",
+      "Cherry Cocktail",
+      "Albany Blue",
+      "Lost Lagoon",
+      "Dark Blue",
+      "Scarlet"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 9.59,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "7189608",
+    "productTitle": "Women's Jollidays Long Sleeve Crewneck T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/7189608_Green_Trees?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 14.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 10.49,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4,
+      "count": 2
+    },
+    "swatchImages": [
+      {
+        "color": "Red Merry Christmas",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Red_Merry_Christmas_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Snowmen",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Blue_Snowmen_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Red Snowflakes",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Red_Snowflakes_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Gingerbread",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Gingerbread_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Santas",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Santas_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Fair Isle",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Fair_Isle_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Penguins",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Blue_Penguins_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Green Trees",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Green_Trees_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Stockings",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/7189608_Blue_Stockings_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-7189608/womens-jollidays-long-sleeve-crewneck-t-shirt.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/7189608_ALT",
+    "prodType": "product",
+    "displayColor": [
+      "Green Trees"
+    ],
+    "availableColr": [
+      "Red Merry Christmas",
+      "Blue Snowmen",
+      "Red Snowflakes",
+      "Gingerbread",
+      "Plaid",
+      "Santas",
+      "Fair Isle",
+      "Blue Penguins",
+      "Green Trees",
+      "Blue Stockings"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 8.39,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "6660306",
+    "productTitle": "Juniors' SO® Short Sleeve V-Neck Tee",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6660306_Manolo_Olive?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 9.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 6.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4.4,
+      "count": 383
+    },
+    "swatchImages": [
+      {
+        "color": "Gray Fox Heather",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Gray_Fox_Heather_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Beau Brown",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Beau_Brown_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Pacific Pine",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Pacific_Pine_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mocha Froth",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Mocha_Froth_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Cream Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Blue_Cream_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Yellow White Chip",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Yellow_White_Chip_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Common Blue",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Common_Blue_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Beauty Blush",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Beauty_Blush_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Black Luxe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Black_Luxe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Acacia Brown",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Acacia_Brown_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Faded Ivy",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Faded_Ivy_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Citrus Berry",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Citrus_Berry_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blushing",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Blushing_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Maiden Lilac",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Maiden_Lilac_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Manolo Olive",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Manolo_Olive_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Modern White",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Modern_White_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Black Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Black_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Periwinkle Velvet",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6660306_Periwinkle_Velvet_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6660306/juniors-so-short-sleeve-v-neck-tee.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6660306_ALT",
+    "prodType": "product",
+    "displayColor": [
+      "Manolo Olive"
+    ],
+    "availableColr": [
+      "Gray Fox Heather",
+      "Beau Brown",
+      "Pacific Pine",
+      "Mocha Froth",
+      "Blue Cream Stripe",
+      "Yellow White Chip",
+      "Common Blue",
+      "Beauty Blush",
+      "Black Luxe",
+      "Acacia Brown",
+      "Faded Ivy",
+      "Citrus Berry",
+      "Blushing",
+      "Maiden Lilac",
+      "Manolo Olive",
+      "Modern White",
+      "Black Stripe",
+      "Periwinkle Velvet"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 5.59,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "4299763",
+    "productTitle": "Men's Nick Graham Traveler Collection Performance Modern-Fit Stretch Dress Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/4299763_Green?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 65,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 24.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4.1,
+      "count": 128
+    },
+    "swatchImages": [
+      {
+        "color": "White Diamonds",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_White_Diamonds_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Black Striated",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Black_Striated_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Floral",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Blue_Floral_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Black Solid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Black_Solid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Orange Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Orange_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Burgundy",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Burgundy_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Striated",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Blue_Striated_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Light Blue Solid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Light_Blue_Solid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "White Solid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_White_Solid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Navy Diamonds",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Navy_Diamonds_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Teal",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Teal_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Green",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/4299763_Green_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-4299763/mens-nick-graham-traveler-collection-performance-modern-fit-stretch-dress-shirt.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Green"
+    ],
+    "availableColr": [
+      "White Diamonds",
+      "Black Striated",
+      "Blue Floral",
+      "Black Solid",
+      "Orange Plaid",
+      "Burgundy",
+      "Blue Striated",
+      "Light Blue Solid",
+      "White Solid",
+      "Navy Diamonds",
+      "Teal",
+      "Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "6530363",
+    "productTitle": "Women's Sonoma Goods For Life® Everyday Short Sleeve V-Neck Tee",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6530363_Avenue_Green?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 9.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 6.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 3.3,
+      "count": 2179
+    },
+    "swatchImages": [
+      {
+        "color": "Blue Beauty",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Blue_Beauty_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Spicy Pink Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Spicy_Pink_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Light Blue Dye",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Light_Blue_Dye_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Pitch Black",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Pitch_Black_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Vital White",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Vital_White_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Lilac White Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Lilac_White_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Bright Green Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Bright_Green_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Red White Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Red_White_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Dark Blue White Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Dark_Blue_White_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Charcoal",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Charcoal_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Avenue Green",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530363_Avenue_Green_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6530363/womens-sonoma-goods-for-life-everyday-short-sleeve-v-neck-tee.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6530363_ALT55",
+    "prodType": "product",
+    "displayColor": [
+      "Avenue Green"
+    ],
+    "availableColr": [
+      "Blue Beauty",
+      "Spicy Pink Stripe",
+      "Light Blue Dye",
+      "Pitch Black",
+      "Vital White",
+      "Lilac White Stripe",
+      "Bright Green Stripe",
+      "Red White Stripe",
+      "Dark Blue White Stripe",
+      "Charcoal",
+      "Avenue Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 5.59,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "6530242",
+    "productTitle": "Women's Sonoma Goods For Life® Short-Sleeve Crew Tee",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6530242_Green_White_Stripe?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 9.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 6.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 3.5,
+      "count": 1387
+    },
+    "swatchImages": [
+      {
+        "color": "Olive White Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Olive_White_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Green White Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Green_White_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Light Gray Heather",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Light_Gray_Heather_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Cream Navy Dye",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Cream_Navy_Dye_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Cobalt Ivory Stripe",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Cobalt_Ivory_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Pitch Black",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Pitch_Black_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Vital White",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Vital_White_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Olive Night",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Olive_Night_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Pink White Dye",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Pink_White_Dye_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Indigo Cream Dye",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6530242_Indigo_Cream_Dye_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6530242/womens-sonoma-goods-for-life-short-sleeve-crew-tee.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6530242_ALT3",
+    "prodType": "product",
+    "displayColor": [
+      "Green White Stripe"
+    ],
+    "availableColr": [
+      "Olive White Stripe",
+      "Green White Stripe",
+      "Light Gray Heather",
+      "Cream Navy Dye",
+      "Cobalt Ivory Stripe",
+      "Pitch Black",
+      "Vital White",
+      "Olive Night",
+      "Pink White Dye",
+      "Indigo Cream Dye"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 5.59,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "6945576",
+    "productTitle": "Men's Sonoma Goods For Life® Long Sleeve Supersoft Knit Button-Up Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6945576_Mint?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 34.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 24.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Original",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 4.8,
+      "count": 32
+    },
+    "swatchImages": [
+      {
+        "color": "Light Brown",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6945576_Light_Brown_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Gray Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6945576_Gray_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Beige Buffalo Check",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6945576_Beige_Buffalo_Check_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Mint",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6945576_Mint_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Cream Ginham",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6945576_Blue_Cream_Ginham_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Burgundy Grey Check",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6945576_Burgundy_Grey_Check_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Black Grey Check",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6945576_Black_Grey_Check_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Blue Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6945576_Blue_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      },
+      {
+        "color": "Light Blue Plaid",
+        "URL": "https://media.kohlsimg.com/is/image/kohls/6945576_Light_Blue_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+      }
+    ],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6945576/mens-sonoma-goods-for-life-long-sleeve-supersoft-knit-button-up-shirt.jsp",
+    "variations": "SizeAndColor",
+    "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6945576_ALT",
+    "prodType": "product",
+    "displayColor": [
+      "Mint"
+    ],
+    "availableColr": [
+      "Light Brown",
+      "Gray Plaid",
+      "Beige Buffalo Check",
+      "Mint",
+      "Blue Cream Ginham",
+      "Burgundy Grey Check",
+      "Black Grey Check",
+      "Blue Plaid",
+      "Light Blue Plaid"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 19.99,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "7460471",
+    "productTitle": "Men's Fanatics Green Philadelphia Eagles Legacy Cotton T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/7460471?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 44.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 31.49,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-7460471/mens-fanatics-green-philadelphia-eagles-legacy-cotton-t-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Eag Green"
+    ],
+    "availableColr": [
+      "Eag Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "7448583",
+    "productTitle": "Men's Green Minnesota Wild Coordinate T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/7448583?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 34.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 24.49,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-7448583/mens-green-minnesota-wild-coordinate-t-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Wld Green"
+    ],
+    "availableColr": [
+      "Wld Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "7421066",
+    "productTitle": "Men's Fanatics Kelly Green New York Jets Never Over T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/7421066?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 39.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 27.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-7421066/mens-fanatics-kelly-green-new-york-jets-never-over-t-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Jet Green"
+    ],
+    "availableColr": [
+      "Jet Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "7275173",
+    "productTitle": "Men's Reyn Spooner Green Green Bay Packers Scenic Button-Down Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/7275173?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 119.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 83.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-7275173/mens-reyn-spooner-green-green-bay-packers-scenic-button-down-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Pkr Green"
+    ],
+    "availableColr": [
+      "Pkr Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "7459939",
+    "productTitle": "Men's Fanatics Green Philadelphia Eagles Legacy Cotton T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/7459939?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 34.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 24.49,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-7459939/mens-fanatics-green-philadelphia-eagles-legacy-cotton-t-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Eag Green"
+    ],
+    "availableColr": [
+      "Eag Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "7393148",
+    "productTitle": "Unisex Light Green Miami Hurricanes Comfort Colors Fashion Color Arch T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/7393148?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 35.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 25.19,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-7393148/unisex-light-green-miami-hurricanes-comfort-colors-fashion-color-arch-t-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Mia Lt Gre"
+    ],
+    "availableColr": [
+      "Mia Lt Gre"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "7459262",
+    "productTitle": "Men's Fanatics Green Notre Dame Fighting Irish Shamrock Two Hit T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/7459262?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 28.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 20.29,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-7459262/mens-fanatics-green-notre-dame-fighting-irish-shamrock-two-hit-t-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Ntd Green"
+    ],
+    "availableColr": [
+      "Ntd Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "6673785",
+    "productTitle": "Men's Suitmeister St. Pats Green Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6673785?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 27.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 22.39,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": 1,
+      "count": 1
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6673785/mens-suitmeister-st-pats-green-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6673785_ALT",
+    "prodType": "product",
+    "displayColor": [
+      "St. Pats Green"
+    ],
+    "availableColr": [
+      "St. Pats Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "7448693",
+    "productTitle": "Men's Logo Athletic Green Minnesota Wild Never Over T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/7448693?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 39.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 27.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-7448693/mens-logo-athletic-green-minnesota-wild-never-over-t-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Wld Green"
+    ],
+    "availableColr": [
+      "Wld Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "6146499",
+    "productTitle": "Big & Tall Only Green Shirt Tee",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6146499?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 24.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 19.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6146499/big-tall-only-green-shirt-tee.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Green"
+    ],
+    "availableColr": [
+      "Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": true,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": {
+        "minPrice": 15.99,
+        "maxPrice": null
+      },
+      "offers": [
+        {
+          "offerId": "62154",
+          "offerCode": "ENJOY20",
+          "disProrated": "false"
+        }
+      ],
+      "ypEligibilityVal": "Eligible for Your Price"
+    },
+    "couponEligible": true,
+    "isVGC": false
+  },
+  {
+    "webID": "6896330",
+    "productTitle": "Men's Kelly Green Boston Celtics Big & Tall Sublimated T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6896330?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 49.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 34.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6896330/mens-kelly-green-boston-celtics-big-tall-sublimated-t-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Cel Green"
+    ],
+    "availableColr": [
+      "Cel Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  },
+  {
+    "webID": "6579707",
+    "productTitle": "Men's Nike Green Michigan State Spartans Campus Back to School T-Shirt",
+    "image": {
+      "url": "https://media.kohlsimg.com/is/image/kohls/6579707?wid=180&hei=180&op_sharpen=1",
+      "height": "180",
+      "width": "180"
+    },
+    "prices": [
+      {
+        "regularPrice": {
+          "minPrice": 29.99,
+          "maxPrice": null
+        },
+        "salePrice": {
+          "minPrice": 20.99,
+          "maxPrice": null
+        },
+        "displayBegDateTime": "2024/12/02 07:14:34 -0800",
+        "displayEndDateTime": "2024/12/02 21:59:59 -0800",
+        "purchaseBegDateTime": "2024/12/02 07:14:34 -0800",
+        "purchaseEndDateTime": "2024/12/02 21:59:59 -0800",
+        "isCurrentPrice": true,
+        "regularPriceType": "Regular",
+        "promotion": null,
+        "statusCode": "20",
+        "priceCode": "Normal",
+        "salePriceStatus": "sale",
+        "isSuppressed": false,
+        "salePriceType": null,
+        "isPriceInstore": false,
+        "suppressedPricingText": null,
+        "promotions": {
+          "tieredPrice": [],
+          "group": [],
+          "bogo": []
+        }
+      }
+    ],
+    "rating": {
+      "avgRating": null,
+      "count": null
+    },
+    "swatchImages": [],
+    "valueAddedIcons": [],
+    "valueAddedBadges": null,
+    "seoURL": "/product/prd-6579707/mens-nike-green-michigan-state-spartans-campus-back-to-school-t-shirt.jsp",
+    "variations": "Size",
+    "altImageUrl": null,
+    "prodType": "product",
+    "displayColor": [
+      "Msu Green"
+    ],
+    "availableColr": [
+      "Msu Green"
+    ],
+    "isAvailableforShip": true,
+    "isAvailableforPickUp": false,
+    "boosted": false,
+    "ypEligible": false,
+    "sponsoredData": null,
+    "sephoraProduct": false,
+    "yourPriceInfo": {
+      "yourPrice": null,
+      "offers": null,
+      "ypEligibilityVal": null
+    },
+    "couponEligible": false,
+    "isVGC": false
+  }
+]
+}
